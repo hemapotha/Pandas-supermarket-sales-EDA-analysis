@@ -1,9 +1,8 @@
 # Pandas-supermarket-sales-EDA-analysis
-## What is Pandas?
 
-Pandas is an open-source Python library designed for data manipulation and analysis. It makes working with structured data fast, flexible, and intuitive — especially if you're dealing with CSV files, Excel sheets, SQL tables, JSON, or APIs.
+# Supermarket Sales EDA (1000 invoices)
 
-The two core data structures in Pandas are:
-
-Series: A 1D labeled array (like a column)
-DataFrame: A 2D labeled data structure (like a full spreadsheet or SQL table)
+**Analyzed with Pandas DataFrames** to solve 5+ business questions:
+- Customer spending patterns (Members vs Normal)
+- Product revenue ranking  
+- Data cleaning & insights
