@@ -4,7 +4,7 @@
 
 Dataset Link : https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales
 
-**Analyzed with Pandas DataFrames** to solve 5+ business questions:
+** Analyzed with Pandas DataFrames** to solve 5+ business questions:
 - **Branch revenue comparison**
 - **Product line profitability** 
 - **Spending patterns of Different types of Customer** (Members vs Normal)
